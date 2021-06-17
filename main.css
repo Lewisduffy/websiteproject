@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+.heading {color:rgba(231, 228, 25, 0.6);
+font-size: 50px;
+text-shadow: black 3px 3px;
+font-family: 'bombing';
+text-align:center;
+padding-top: 5%;   
+}
+.background
+{
+background: url(background.jpg) center center fixed;background-size: cover;
+}
+.background2
+{
+background: url(sun.jpg) center center fixed;background-size: cover;
+}
+.background1
+{
+background: url(forest.jpg) center center fixed;background-size: cover;
+}
+.video{
+display: flex;
+position: fixed;
+left:50px;
+}
+.text{
+font-family: 'bombing';
+color:rgb(182, 63, 17);
+text-align: center;
+padding-top: 11%;
+padding-right: 12%;
+font-size: 42px;
+text-shadow: rgb(12, 12, 12) 1px 1px; 
+}
+.boxlinks{
+color:rgb(187, 23, 23);
+font-size: 50px;
+font-family: 'bombing';
+text-align: center;
+text-shadow:rgb(12, 12, 12) 1px 1px;
+}
+
+.discord{ 
+font-size:40px ;
+color:white;
+position:fixed;
+font-family: 'bombing';
+bottom:100px;}
+
+.steam{
+font-size: 40px;
+position: fixed;
+color:turquoise;
+bottom:100px;
+right:20px;
+font-family: 'bombing';}
+
+.facebook{
+color:rgb(235, 173, 17);
+font-size: 40px;
+position:fixed;
+font-family:'bombing';
+left:100px;
+bottom:100px;}
+
+.container{
+color:rgb(111, 71, 148);
+display: flex;
+flex-wrap: nowrap;
+justify-content: space-evenly;
+padding-top: 30px;}
+
+.list{
+font-family: 'bombing';
+color:rgb(36, 180, 180);
+text-align: center;
+padding-top: 11%;
+font-size: 42px;
+text-shadow: rgb(12, 12, 12) 1px 1px;
+list-style-image:url(bullet_black.png);
+}
+.center {
+display: flex;
+position:fixed;
+width: 210px;
+height: auto;
+left:370px;
+  }
+.list1{
+font-family: 'bombing';
+color:rgba(74, 63, 230, 0.904);
+font-size: 30px;
+text-shadow: rgb(12, 12, 12) 1px 1px;
+text-align: center;}
+
+  
